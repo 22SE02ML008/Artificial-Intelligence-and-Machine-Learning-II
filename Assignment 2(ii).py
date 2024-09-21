@@ -52,4 +52,4 @@ z = 2  # Desired amount of water
 if water_jug_BFS(x, y, z):
     print(f'You can measure {z} liters of water using {x}-liter and {y}-liter jugs.')
 else:
-    print(f'You cannot measure {z} liters of water using {x}-liter and {y}-liter jugs.'
+    print(f'You cannot measure {z} liters of water using {x}-liter and {y}-liter jugs.')
