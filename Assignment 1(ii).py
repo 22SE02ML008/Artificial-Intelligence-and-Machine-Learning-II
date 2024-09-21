@@ -26,3 +26,4 @@ if __name__ == "__main__":
 
 print("Depth-First Search (DFS) traversal of the tree is:")
 dfs(root)
+bfs(root)
